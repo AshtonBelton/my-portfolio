@@ -3,7 +3,15 @@ import '../styles/Projects.css';
 
 const projectsData = [
     {
-        title: '',
+        title: 'Memory Card',
+        description: 'A memory card game that challenges the user to remember pokemon cards to win the game.',
+        techStack: ["React", "JavaScript", "HTML", "CSS"], 
+        demoLink: '',
+        codeLink: 'https://github.com/AshtonBelton/Memory-Card',
+        date: 'Aug, 2024',
+    },
+    {
+        title: 'Inventory Application',
         description: '',
         techStack: [], 
         demoLink: '',
@@ -11,7 +19,7 @@ const projectsData = [
         date: '',
     },
     {
-        title: '',
+        title: 'Shopping Cart',
         description: '',
         techStack: [], 
         demoLink: '',
@@ -19,7 +27,7 @@ const projectsData = [
         date: '',
     },
     {
-        title: '',
+        title: 'Rock, Paper, Scissors',
         description: '',
         techStack: [], 
         demoLink: '',
@@ -27,7 +35,7 @@ const projectsData = [
         date: '',
     },
     {
-        title: '',
+        title: 'Tic Tac Toe',
         description: '',
         techStack: [], 
         demoLink: '',
